@@ -57,8 +57,7 @@
 - 📰 **News App** → Explore, read, and save news *(API integration + Bloc)*  
 - 🍴 **Menu App** → Digital restaurant menu with categories  
 - 🛍️ **E-commerce App** → Online shopping with cart & payment features  
-- ⚽ **Tagyra** → Football Beach Booking App *(Firebase + Bloc + Lottie animations)*  
-- 🎭 **Moodify** → Mood tracker with calendar & monthly insights *(smooth animations + transitions)*  
+
 
 <p align="center">
   <img src="https://assets9.lottiefiles.com/packages/lf20_jtbfg2nb.json.gif" width="250px" alt="Flutter Animation"/>
