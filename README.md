@@ -1,54 +1,80 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Mahmoud Mahffouz</h1>
-<h3 align="center">🚀 Mobile App Developer | Flutter Enthusiast</h3>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahmoud+Mahffouz;Mobile+App+Developer;Flutter+%7C+Dart+%7C+Firebase;Clean+Architecture+%7C+Bloc+%7C+Cubit" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">🚀 Flutter Enthusiast | Problem Solver | Tech Explorer</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150px" alt="Coding GIF"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 I’m currently working on **Flutter apps** with clean architecture and state management (Bloc).  
-- 🌱 I’m continuously learning **advanced mobile development** through **Ada Mobile Courses**.  
-- 💡 Passionate about creating **scalable, user-friendly mobile applications**.  
-- 💬 Ask me about **Flutter, Dart, Firebase, REST APIs, Bloc, and mobile UI/UX**.  
-- 📫 Reach me at: **mahmoud.mahffouz@example.com**  
-- ⚡ Fun fact: *I love turning complex problems into simple, elegant mobile apps!*  
+- 🔭 Currently working on **Flutter apps** with **clean architecture + Bloc/Cubit**.  
+- 🌱 Improving **responsive & adaptive UI/UX** skills.  
+- ⚡ Passionate about **turning ideas into scalable apps**.  
+- 💬 Ask me about: **Flutter, Dart, Firebase, REST APIs, Bloc, Cubit, UI/UX**.  
+- 📱 Phone: **01272210717**  
+- 📫 Email: **mahmod202350@gmail.com**  
+- 🔗 LinkedIn: [Mahmoud Mahfouz](https://www.linkedin.com/in/mahmoud-mahfouz-53536a309/)  
+- 💻 GitHub: [Mahfouz28](https://github.com/Mahfouz28)  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### Languages & Frameworks  
+### 💻 Languages & Frameworks  
 <p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-### Tools & Platforms  
+### ⚙️ Tools & Platforms  
 <p align="left">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bloc-0052CC?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cubit-FF6F00?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive-Design-blue?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adaptive-UI-green?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ## 📂 Featured Projects  
 
-- 📱 **Tagyra** → Football Beach Booking App *(Flutter, Firebase, Bloc)*  
-- 🎭 **Moodify** → Mood tracking app with calendar & monthly mood review  
-- 📰 **News App** → Explore, read, and save news with API integration  
+- 🎵 **Spotify Clone** → Music app with modern UI *(Flutter, Bloc, Firebase)*  
+- 🖼️ **NFT Marketplace** → Buy & sell NFTs with clean UI & animations  
+- 📝 **ToDo App** → Task management app with Firebase & Bloc  
+- 📰 **News App** → Explore, read, and save news *(API integration + Bloc)*  
+- 🍴 **Menu App** → Digital restaurant menu with categories  
+- 🛍️ **E-commerce App** → Online shopping with cart & payment features  
+- ⚽ **Tagyra** → Football Beach Booking App *(Firebase + Bloc)*  
+- 🎭 **Moodify** → Mood tracker with calendar & monthly insights  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250px" alt="Flutter GIF"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudMahffouz&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahfouz28&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudMahffouz&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahfouz28&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfouz28&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -56,17 +82,20 @@
 ## 🌐 Connect with Me  
 
 <p align="left">
-<a href="https://linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/mahmoud-mahfouz-53536a309/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://github.com/Mahfouz28" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:mahmoud.mahffouz@example.com">
+<a href="mailto:mahmod202350@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="tel:+201272210717">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-⭐️ *Always open to collaborations and exciting opportunities in Mobile Development!*
+⭐️ *Always open to collaborations and exciting opportunities in Mobile Development!*  
