@@ -83,80 +83,116 @@ class MahmoudMahfouz extends FlutterDeveloper {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎵 Spotify Clone
-> Full music streaming experience with modern UI, real-time playback controls, and playlist management.
+### 🎓 Academy
+> E-learning Flutter app with course browsing, lessons, and a clean educational UI experience.
 
-**Stack:** Flutter · Bloc · Firebase · REST API
-
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Mahfouz28/academy)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Bloc](https://img.shields.io/badge/Bloc-0052CC?style=flat-square&logo=flutter&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ NFT Marketplace
-> Buy, sell & discover NFTs with buttery-smooth Lottie transitions and a clean editorial layout.
+### 🎨 Stylish Demo
+> A polished Flutter UI demo showcasing advanced widget composition, theming, and micro-interactions.
 
-**Stack:** Flutter · Lottie · Clean Architecture
-
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Mahfouz28/stylish_demo)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Lottie](https://img.shields.io/badge/Lottie-FF4088?style=flat-square&logo=airbnb&logoColor=white)
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 💳 MD TAG Digital Card
+> Smart NFC digital business card web interface — share your identity with a tap.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Private](https://img.shields.io/badge/🔒_Private-555?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏷️ MG Tag
+> Full-featured NFC-based digital identity app — activate products, scan tags, manage profiles.
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Private](https://img.shields.io/badge/🔒_Private-555?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚽ Yalla Kora
+> Live football scores, match fixtures, and standings — for the true football fan.
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Private](https://img.shields.io/badge/🔒_Private-555?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍔 Hangery
+> Digital restaurant menu app with animated category switching and a rich dish detail view.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Mahfouz28/hangery)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Advanced Project
+> A systems-level C++ project demonstrating algorithms, data structures, and problem-solving chops.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Mahfouz28/advanced-project)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Chat App
+> Real-time chat application with a clean HTML/JS front-end and live messaging features.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Mahfouz28/chat_app)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔵 Circlo
+> A Flutter app with fluid circular UI patterns, smooth animations, and a unique visual identity.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Mahfouz28/circlo)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🛍️ E-Commerce App
-> Full online shopping experience — product catalog, cart, checkout, and payment flow.
+> Online shopping with full product catalog, cart management, and payment flow.
 
-**Stack:** Flutter · Bloc · Firebase · REST API
-
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-### 📰 News App
-> Browse, read, and save articles across categories with clean API integration.
-
-**Stack:** Flutter · Bloc · REST API
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![API](https://img.shields.io/badge/REST_API-4CAF50?style=flat-square&logo=postman&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✅ ToDo App
-> Smart task manager with real-time sync, categories, and priority flags.
-
-**Stack:** Flutter · Bloc · Firebase
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍴 Menu App
-> Digital restaurant menu with animated category switching and a rich dish detail view.
-
-**Stack:** Flutter · Cubit · Custom Animations
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Cubit](https://img.shields.io/badge/Cubit-FF6F00?style=flat-square&logo=flutter&logoColor=white)
 
 </td>
 </tr>
